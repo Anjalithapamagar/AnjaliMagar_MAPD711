@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">simple Android application</string>
+    <string name="my_profile_title">My Profile</string>
+
+    <string name="name">Full Name</string>
+    <string name="name_hint">i.e. John Doe</string>
+
+    <string name="province">Province</string>
+
+    <string name="province_prompt">Choose a province</string>
+
+    <string-array name="provinces">
+        <item>Alberta</item>
+        <item>British Columbia</item>
+        <item>Manitoba</item>
+        <item>New Brunswick</item>
+        <item>Newfoundland and Labrador</item>
+        <item>Northwest Territories</item>
+        <item>Nova Scotia</item>
+        <item>Nunavut</item>
+        <item>Ontario</item>
+        <item>Prince Edward Island</item>
+        <item>Quebec</item>
+        <item>Saskatchewan</item>
+        <item>Yukon</item>
+    </string-array>
+
+    <string name="qualification">Qualification</string>
+    <string name="associates">Associates</string>
+    <string name="bachelors">Bachelors</string>
+    <string name="masters">Masters</string>
+    <string name="doctorate">Doctorate</string>
+
+    <string name="hobby">Hobby</string>
+
+    <string name="hobby_hint">i.e. Video Games</string>
+
+    <string name="dream_job">Dream Job</string>
+    <string name="dream_job_hint">i.e. Lead Mobile Engineer</string>
+
+    <string name="send">Send</string>
+
+    <string name="menu">This is a menu setting.</string>
+
+</resources>
